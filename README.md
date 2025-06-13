@@ -29,13 +29,16 @@
 ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c)
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
 ![Bash](https://img.shields.io/badge/-Bash-333333?style=flat&logo=gnubash)
 ![MATLAB](https://img.shields.io/badge/-MATLAB-333333?style=flat&logo=mathworks)
 ![R](https://img.shields.io/badge/-R-333333?style=flat&logo=r)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![VS Code](https://img.shields.io/badge/-VSCode-333333?style=flat&logo=visualstudiocode)
+![pandas](https://img.shields.io/badge/-pandas-333333?style=flat&logo=pandas)
+![NumPy](https://img.shields.io/badge/-NumPy-333333?style=flat&logo=numpy)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-333333?style=flat&logo=tensorflow)
 
 ---
 

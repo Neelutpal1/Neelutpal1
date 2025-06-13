@@ -19,7 +19,7 @@
 
 ## 📫 Connect with Me
 - 📧 Email: **neelutpaldutta15@gmail.com**
-- 🔗 LinkedIn: *(https://www.linkedin.com/in/neelutpal-dutta-79b869290)*
+- 🔗 LinkedIn: **https://www.linkedin.com/in/neelutpal-dutta-79b869290**
 
 ---
 
@@ -27,14 +27,15 @@
 
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c)
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
+![Bash](https://img.shields.io/badge/-Bash-333333?style=flat&logo=gnubash)
+![MATLAB](https://img.shields.io/badge/-MATLAB-333333?style=flat&logo=mathworks)
+![R](https://img.shields.io/badge/-R-333333?style=flat&logo=r)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![VS Code](https://img.shields.io/badge/-VSCode-333333?style=flat&logo=visualstudiocode)
-![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3)
 
 ---
 
